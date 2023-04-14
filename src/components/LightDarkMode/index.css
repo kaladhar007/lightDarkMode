@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.page {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  padding: 20px;
+  text-align: center;
+
+  border-radius: 20px;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
+
+.light {
+  background-color: #ffffff;
+  color: black;
+  border: 2px solid black;
+}
+
+.button {
+}
